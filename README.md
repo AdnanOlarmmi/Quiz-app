@@ -3,4 +3,4 @@ Quiz app using html, css and vanilla javascript following the IIFE and revealing
 
 [Access it here](https://adnanolarmmi.github.io/Quiz-app-/)
 
-Leave a star ⭐ 💕
+Leave a star if you love it 😉 🙂 ⭐ 💕
